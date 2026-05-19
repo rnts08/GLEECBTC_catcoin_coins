@@ -5140,6 +5140,25 @@
     "derivation_path": "m/44'/60'"
   },
   {
+    "coin": "EURE-GNO",
+    "name": "eure_gno",
+    "fname": "Monerium EUR",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 100,
+    "decimals": 18,
+    "avg_blocktime": 5,
+    "required_confirmations": 5,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "XDAI",
+        "contract_address": "0x420CA0f9B9b604cE0fd9C18EF134C705e5Fa3430"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "EURE-PLG20",
     "name": "eure_plg20",
     "fname": "Monerium EUR",
@@ -14841,6 +14860,28 @@
       }
     },
     "derivation_path": "m/44'/60'"
+  },
+  {
+    "coin": "XDAI",
+    "name": "xdai",
+    "fname": "XDAI",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 100,
+    "required_confirmations": 5,
+    "avg_blocktime": 5,
+    "protocol": {
+      "type": "ETH",
+      "protocol_data": {
+        "chain_id": 100
+      }
+    },
+    "derivation_path": "m/44'/60'",
+    "max_eth_tx_type": 2,
+    "swap_gas_fee_policy": "Medium",
+    "links": {
+      "homepage": "https://www.gnosis.io"
+    }
   },
   {
     "coin": "XEP-segwit",
