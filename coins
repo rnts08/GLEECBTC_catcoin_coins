@@ -6521,6 +6521,25 @@
     }
   },
   {
+    "coin": "GNO-GNO",
+    "name": "gno_gno",
+    "fname": "Gnosis",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 100,
+    "decimals": 18,
+    "avg_blocktime": 5,
+    "required_confirmations": 5,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "XDAI",
+        "contract_address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "GNO-PLG20",
     "name": "gno_plg20",
     "fname": "Gnosis",
