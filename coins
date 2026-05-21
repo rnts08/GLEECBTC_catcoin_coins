@@ -2311,7 +2311,7 @@
         "contract_address": "0xE6A537a407488807F0bbeb0038B79004f19DDDFb"
       }
     },
-    "derivation_path": "m/44'/60'",
+    "derivation_path": "m/44'/60'"
   },
   {
     "coin": "BRZ-BEP20",
