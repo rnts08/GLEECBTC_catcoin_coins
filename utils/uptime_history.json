@@ -5429,7 +5429,8 @@
         "1755770395": "offline"
       },
       "https://iris-rpc.publicnode.com": {
-        "1760706938": "online"
+        "1760706938": "online",
+        "1779428138": "offline"
       },
       "https://rpc.cosmos.directory/irisnet": {
         "1763521637": "online"
@@ -10102,6 +10103,26 @@
       }
     }
   },
+  "XDAI": {
+    "all": {},
+    "by_server": {
+      "https://gnosis-rpc.publicnode.com": {
+        "1779428138": "online"
+      },
+      "https://public-gno-mainnet.fastnode.io": {
+        "1779428138": "online"
+      },
+      "https://rpc.gnosischain.com": {
+        "1779428138": "online"
+      },
+      "wss://gnosis-rpc.publicnode.com": {
+        "1779428138": "online"
+      },
+      "wss://rpc.gnosischain.com/wss": {
+        "1779428138": "online"
+      }
+    }
+  },
   "XEC": {
     "all": {
       "1755770395": "online"
@@ -10292,6 +10313,26 @@
     },
     "by_server": {
       "_metadata": {
+        "electrumx-dex-01.neuraiexplorer.com:50001": {
+          "contact": [
+            {
+              "email": "alarm@neurai.org"
+            },
+            {
+              "discord": "456566604809895947"
+            }
+          ]
+        },
+        "electrumx-dex-01.neuraiexplorer.com:50002": {
+          "contact": [
+            {
+              "email": "alarm@neurai.org"
+            },
+            {
+              "discord": "456566604809895947"
+            }
+          ]
+        },
         "electrumx3.neurai.top:50002": {
           "contact": [
             {
@@ -10304,10 +10345,12 @@
         }
       },
       "electrumx-dex-01.neuraiexplorer.com:50001": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1779428138": "offline"
       },
       "electrumx-dex-01.neuraiexplorer.com:50002": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1779428138": "offline"
       },
       "electrumx-dex-02.neuraiexplorer.com:50001": {
         "1755770395": "online"
