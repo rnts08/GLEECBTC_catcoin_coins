@@ -1863,7 +1863,8 @@
         "1776831960": "offline",
         "1777342440": "online",
         "1778466793": "offline",
-        "1779142340": "online"
+        "1779142340": "online",
+        "1779937604": "offline"
       },
       "btx-electrumx.coinsmunity.com:50003": {
         "1755770395": "online",
@@ -1872,7 +1873,8 @@
         "1776831960": "offline",
         "1777342440": "online",
         "1778466793": "offline",
-        "1779142340": "online"
+        "1779142340": "online",
+        "1779937604": "offline"
       },
       "btx.electrum1.cipig.net:20069": {
         "1764854330": "online"
@@ -1922,7 +1924,8 @@
         "1776831960": "offline",
         "1777342440": "online",
         "1778466793": "offline",
-        "1779142340": "online"
+        "1779142340": "online",
+        "1779937604": "offline"
       },
       "btx-electrumx.coinsmunity.com:50003": {
         "1755770395": "online",
@@ -1931,7 +1934,8 @@
         "1776831960": "offline",
         "1777342440": "online",
         "1778466793": "offline",
-        "1779142340": "online"
+        "1779142340": "online",
+        "1779937604": "offline"
       },
       "btx.electrum1.cipig.net:20069": {
         "1764854330": "online"
@@ -2099,7 +2103,8 @@
         "1755770395": "online"
       },
       "seattle.ecoincore.com:34333": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1779937604": "offline"
       },
       "woolloomooloo.ecoincore.com:34333": {
         "1755770395": "online",
@@ -2153,7 +2158,8 @@
         "1755770395": "online"
       },
       "seattle.ecoincore.com:34333": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1779937604": "offline"
       },
       "woolloomooloo.ecoincore.com:34333": {
         "1755770395": "online",
@@ -2748,7 +2754,8 @@
         "1772144114": "offline",
         "1772587456": "online",
         "1778552827": "offline",
-        "1779142340": "online"
+        "1779142340": "online",
+        "1779937604": "offline"
       },
       "failover.dgc.ewmcx.biz:50003": {
         "1755770395": "online",
@@ -2761,7 +2768,8 @@
         "1772144114": "offline",
         "1772587456": "online",
         "1778552827": "offline",
-        "1779142340": "online"
+        "1779142340": "online",
+        "1779937604": "offline"
       }
     }
   },
@@ -3941,7 +3949,8 @@
       "electrumx03.firo.org:50004": {
         "1755770395": "online",
         "1776831960": "offline",
-        "1777005785": "online"
+        "1777005785": "online",
+        "1779937604": "offline"
       }
     }
   },
@@ -4742,7 +4751,8 @@
         "1776831960": "online",
         "1777005785": "offline",
         "1777255662": "online",
-        "1779657901": "offline"
+        "1779657901": "offline",
+        "1779937604": "online"
       },
       "https://moonbeam.public.blastapi.io": {
         "1755770395": "online",
@@ -4770,7 +4780,8 @@
         "1777255662": "online",
         "1778294861": "offline",
         "1778410468": "online",
-        "1779657901": "offline"
+        "1779657901": "offline",
+        "1779937604": "online"
       },
       "wss://moonbeam.public.blastapi.io": {
         "1755770395": "online",
@@ -9696,14 +9707,16 @@
         "1773700082": "offline",
         "1774368443": "online",
         "1776831960": "offline",
-        "1777255662": "online"
+        "1777255662": "online",
+        "1779937604": "offline"
       },
       "uno-bkp.coinmunity.gold:50003": {
         "1755770395": "online",
         "1773700082": "offline",
         "1774368443": "online",
         "1776831960": "offline",
-        "1777255662": "online"
+        "1777255662": "online",
+        "1779937604": "offline"
       },
       "uno-ex-one.ewmci.online:50001": {
         "1755770395": "online"
@@ -10511,7 +10524,8 @@
         "1764031001": "offline",
         "1764312754": "online",
         "1768612207": "offline",
-        "1768699088": "online"
+        "1768699088": "online",
+        "1779937604": "offline"
       },
       "electrumx1.vanillacash.info:50012": {
         "1755770395": "online",
@@ -10520,7 +10534,8 @@
         "1764031001": "offline",
         "1764312754": "online",
         "1768612207": "offline",
-        "1768699088": "online"
+        "1768699088": "online",
+        "1779937604": "offline"
       },
       "electrumx1.vanillacash.info:50013": {
         "1755770395": "online",
@@ -10529,7 +10544,8 @@
         "1764031001": "offline",
         "1764312754": "online",
         "1768612207": "offline",
-        "1768699088": "online"
+        "1768699088": "online",
+        "1779937604": "offline"
       },
       "electrumx2.vanillacash.info:50011": {
         "1755770395": "online"
