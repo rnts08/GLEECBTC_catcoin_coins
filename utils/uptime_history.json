@@ -1431,7 +1431,8 @@
         "1755770395": "online"
       },
       "https://bsc3.cipig.net:18655": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1780108334": "offline"
       },
       "wss://bsc-rpc.publicnode.com": {
         "1755770395": "online"
@@ -1443,7 +1444,8 @@
         "1755770395": "online"
       },
       "wss://bsc3.cipig.net:38655": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1780108334": "offline"
       }
     }
   },
@@ -3661,6 +3663,22 @@
   "ETH": {
     "all": {},
     "by_server": {
+      "_metadata": {
+        "https://eth3.cipig.net:18555": {
+          "contact": [
+            {
+              "email": "cipi@komodoplatform.com"
+            }
+          ]
+        },
+        "wss://eth3.cipig.net:38555": {
+          "contact": [
+            {
+              "email": "cipi@komodoplatform.com"
+            }
+          ]
+        }
+      },
       "https://0xrpc.io/eth": {
         "1755770395": "online",
         "1769476724": "offline",
@@ -3670,7 +3688,8 @@
         "1755770395": "online"
       },
       "https://eth3.cipig.net:18555": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1780108334": "offline"
       },
       "https://ethereum-rpc.publicnode.com": {
         "1755770395": "online"
@@ -3702,7 +3721,8 @@
         "1762013934": "online"
       },
       "wss://eth3.cipig.net:38555": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1780108334": "offline"
       },
       "wss://ethereum-rpc.publicnode.com": {
         "1755770395": "online",
