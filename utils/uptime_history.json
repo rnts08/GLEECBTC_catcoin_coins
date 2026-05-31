@@ -2396,7 +2396,8 @@
         "1766366022": "online",
         "1768612207": "offline",
         "1775959086": "online",
-        "1778294861": "offline"
+        "1778294861": "offline",
+        "1780195702": "online"
       },
       "coin.crionic.org:50002": {
         "1755770395": "offline",
@@ -2405,7 +2406,8 @@
         "1766366022": "online",
         "1768612207": "offline",
         "1775959086": "online",
-        "1778294861": "offline"
+        "1778294861": "offline",
+        "1780195702": "online"
       },
       "coin.crionic.org:50005": {
         "1755770395": "offline",
@@ -2414,7 +2416,8 @@
         "1766366022": "online",
         "1768612207": "offline",
         "1775959086": "online",
-        "1778294861": "offline"
+        "1778294861": "offline",
+        "1780195702": "online"
       },
       "explorer.crionic.org:50001": {
         "1755770395": "online"
@@ -10206,7 +10209,8 @@
       },
       "wss://rpc.gnosischain.com/wss": {
         "1779428138": "online",
-        "1780120460": "offline"
+        "1780120460": "offline",
+        "1780195702": "online"
       }
     }
   },
