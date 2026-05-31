@@ -490,7 +490,7 @@ class CoinConfig:
                     if x not in self.electrum_scan_report[coin]:
                         continue
                     for k, v in self.electrum_scan_report[coin][x].items():
-                        is_server_online = (v["last_connection"] > 0 and current_time_local - v["last_connection"] < 604800)  # 1 week grace period
+                        is_server_online = (v["last_connection"] > 0 and current_time_local - v["last_connection"] < 172800)  # 2 days grace period
                         
                         if is_server_online:
                             for electrum in electrums:
