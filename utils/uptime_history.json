@@ -1485,6 +1485,29 @@
       "1755770395": "online"
     },
     "by_server": {
+      "_metadata": {
+        "electrum3.blackcoin.nl:30001": {
+          "contact": [
+            {
+              "discord": "michelvankessel#7656"
+            }
+          ]
+        },
+        "electrum3.blackcoin.nl:30002": {
+          "contact": [
+            {
+              "discord": "michelvankessel#7656"
+            }
+          ]
+        },
+        "electrum3.blackcoin.nl:30004": {
+          "contact": [
+            {
+              "discord": "michelvankessel#7656"
+            }
+          ]
+        }
+      },
       "electrum1.blackcoin.nl:10001": {
         "1755770395": "online"
       },
@@ -1504,13 +1527,16 @@
         "1755770395": "online"
       },
       "electrum3.blackcoin.nl:30001": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1780368879": "offline"
       },
       "electrum3.blackcoin.nl:30002": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1780368879": "offline"
       },
       "electrum3.blackcoin.nl:30004": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1780368879": "offline"
       }
     }
   },
@@ -1663,19 +1689,22 @@
         "1761086724": "online",
         "1768180562": "offline",
         "1768266592": "online",
-        "1780269451": "offline"
+        "1780269451": "offline",
+        "1780368879": "online"
       },
       "bsty-main.coinmunity.gold:50012": {
         "1761086724": "online",
         "1768180562": "offline",
         "1768266592": "online",
-        "1780269451": "offline"
+        "1780269451": "offline",
+        "1780368879": "online"
       },
       "bsty-main.coinmunity.gold:50013": {
         "1761086724": "online",
         "1768180562": "offline",
         "1768266592": "online",
-        "1780269451": "offline"
+        "1780269451": "offline",
+        "1780368879": "online"
       },
       "electrumserver01.globalboost.info:50011": {
         "1755770395": "offline",
@@ -2101,7 +2130,8 @@
         "1777342440": "online",
         "1778466793": "offline",
         "1779142340": "online",
-        "1779937604": "offline"
+        "1779937604": "offline",
+        "1780368879": "online"
       },
       "btx-electrumx.coinsmunity.com:50003": {
         "1755770395": "online",
@@ -2111,7 +2141,8 @@
         "1777342440": "online",
         "1778466793": "offline",
         "1779142340": "online",
-        "1779937604": "offline"
+        "1779937604": "offline",
+        "1780368879": "online"
       },
       "btx.electrum1.cipig.net:20069": {
         "1764854330": "online"
@@ -2184,7 +2215,8 @@
         "1777342440": "online",
         "1778466793": "offline",
         "1779142340": "online",
-        "1779937604": "offline"
+        "1779937604": "offline",
+        "1780368879": "online"
       },
       "btx-electrumx.coinsmunity.com:50003": {
         "1755770395": "online",
@@ -2194,7 +2226,8 @@
         "1777342440": "online",
         "1778466793": "offline",
         "1779142340": "online",
-        "1779937604": "offline"
+        "1779937604": "offline",
+        "1780368879": "online"
       },
       "btx.electrum1.cipig.net:20069": {
         "1764854330": "online"
@@ -3184,7 +3217,8 @@
         "1772587456": "online",
         "1778552827": "offline",
         "1779142340": "online",
-        "1779937604": "offline"
+        "1779937604": "offline",
+        "1780368879": "online"
       },
       "failover.dgc.ewmcx.biz:50003": {
         "1755770395": "online",
@@ -3198,7 +3232,8 @@
         "1772587456": "online",
         "1778552827": "offline",
         "1779142340": "online",
-        "1779937604": "offline"
+        "1779937604": "offline",
+        "1780368879": "online"
       }
     }
   },
@@ -4846,19 +4881,22 @@
   "FLUX": {
     "all": {
       "1755770395": "online",
-      "1780269451": "offline"
+      "1780269451": "offline",
+      "1780368879": "online"
     },
     "by_server": {
       "electrumx.runonflux.io:50001": {
         "1755770395": "online",
-        "1780269451": "offline"
+        "1780269451": "offline",
+        "1780368879": "online"
       },
       "electrumx.runonflux.io:50004": {
         "1755770395": "offline"
       },
       "electrumx2.runonflux.io:50001": {
         "1755770395": "online",
-        "1780269451": "offline"
+        "1780269451": "offline",
+        "1780368879": "online"
       },
       "electrumx2.runonflux.io:50004": {
         "1755770395": "offline"
@@ -8804,7 +8842,8 @@
         "1766452233": "online",
         "1770168231": "offline",
         "1770254634": "online",
-        "1780269451": "offline"
+        "1780269451": "offline",
+        "1780368879": "online"
       },
       "electrumx.nvc.ewmcx.org:50003": {
         "1755770395": "offline",
@@ -8813,7 +8852,8 @@
         "1766452233": "online",
         "1770168231": "offline",
         "1770254634": "online",
-        "1780269451": "offline"
+        "1780269451": "offline",
+        "1780368879": "online"
       },
       "failover.nvc.ewmcx.biz:50002": {
         "1755770395": "online"
@@ -11848,7 +11888,8 @@
         "1764312754": "online",
         "1768612207": "offline",
         "1768699088": "online",
-        "1779937604": "offline"
+        "1779937604": "offline",
+        "1780368879": "online"
       },
       "electrumx1.vanillacash.info:50012": {
         "1755770395": "online",
@@ -11858,7 +11899,8 @@
         "1764312754": "online",
         "1768612207": "offline",
         "1768699088": "online",
-        "1779937604": "offline"
+        "1779937604": "offline",
+        "1780368879": "online"
       },
       "electrumx1.vanillacash.info:50013": {
         "1755770395": "online",
@@ -11868,7 +11910,8 @@
         "1764312754": "online",
         "1768612207": "offline",
         "1768699088": "online",
-        "1779937604": "offline"
+        "1779937604": "offline",
+        "1780368879": "online"
       },
       "electrumx2.vanillacash.info:50011": {
         "1755770395": "online"
@@ -12406,6 +12449,29 @@
       "1755770395": "online"
     },
     "by_server": {
+      "_metadata": {
+        "electrum3.blackcoin.nl:30011": {
+          "contact": [
+            {
+              "discord": "michelvankessel#7656"
+            }
+          ]
+        },
+        "electrum3.blackcoin.nl:30012": {
+          "contact": [
+            {
+              "discord": "michelvankessel#7656"
+            }
+          ]
+        },
+        "electrum3.blackcoin.nl:30014": {
+          "contact": [
+            {
+              "discord": "michelvankessel#7656"
+            }
+          ]
+        }
+      },
       "electrum1.blackcoin.nl:10011": {
         "1755770395": "online"
       },
@@ -12425,13 +12491,16 @@
         "1755770395": "online"
       },
       "electrum3.blackcoin.nl:30011": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1780368879": "offline"
       },
       "electrum3.blackcoin.nl:30012": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1780368879": "offline"
       },
       "electrum3.blackcoin.nl:30014": {
-        "1755770395": "online"
+        "1755770395": "online",
+        "1780368879": "offline"
       }
     }
   },
