@@ -5470,6 +5470,35 @@
                         "discord": "michelvankessel#7656"
                     }
                 ]
+            },
+            {
+                "url": "electrum3.blackcoin.nl:30001",
+                "contact": [
+                    {
+                        "discord": "michelvankessel#7656"
+                    }
+                ],
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrum3.blackcoin.nl:30002",
+                "protocol": "SSL",
+                "disable_cert_verification": false,
+                "contact": [
+                    {
+                        "discord": "michelvankessel#7656"
+                    }
+                ]
+            },
+            {
+                "url": "electrum3.blackcoin.nl:30004",
+                "protocol": "WSS",
+                "disable_cert_verification": false,
+                "contact": [
+                    {
+                        "discord": "michelvankessel#7656"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -6491,18 +6520,6 @@
             {
                 "url": "bsty-main.coinmunity.gold:50013",
                 "protocol": "WSS"
-            },
-            {
-                "url": "electrumserver01.globalboost.info:50011",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumserver01.globalboost.info:50013",
-                "protocol": "WSS"
-            },
-            {
-                "url": "electrumserver01.globalboost.info:50014",
-                "protocol": "SSL"
             },
             {
                 "url": "electrumserver02.globalboost.info:50011",
@@ -16694,33 +16711,6 @@
         },
         "electrum": [
             {
-                "url": "electrum-flc.hashboard.space:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "email": "listing@hashboard.space"
-                    }
-                ]
-            },
-            {
-                "url": "electrum-flc.hashboard.space:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "listing@hashboard.space"
-                    }
-                ]
-            },
-            {
-                "url": "electrum-flc.hashboard.space:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "listing@hashboard.space"
-                    }
-                ]
-            },
-            {
                 "url": "electrum.myfloki.com:50001",
                 "protocol": "TCP",
                 "contact": [
@@ -16791,33 +16781,6 @@
             "homepage": "https://flokicoin.org"
         },
         "electrum": [
-            {
-                "url": "electrum-flc.hashboard.space:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "email": "listing@hashboard.space"
-                    }
-                ]
-            },
-            {
-                "url": "electrum-flc.hashboard.space:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "listing@hashboard.space"
-                    }
-                ]
-            },
-            {
-                "url": "electrum-flc.hashboard.space:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "listing@hashboard.space"
-                    }
-                ]
-            },
             {
                 "url": "electrum.myfloki.com:50001",
                 "protocol": "TCP",
@@ -38909,16 +38872,6 @@
             {
                 "url": "uno-ex-one.ewmci.online:50002",
                 "protocol": "SSL"
-            },
-            {
-                "url": "uno-main.coinmunity.gold:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
-            {
-                "url": "uno-main.coinmunity.gold:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
