@@ -1528,15 +1528,18 @@
       },
       "electrum3.blackcoin.nl:30001": {
         "1755770395": "online",
-        "1780368879": "offline"
+        "1780368879": "offline",
+        "1780457333": "online"
       },
       "electrum3.blackcoin.nl:30002": {
         "1755770395": "online",
-        "1780368879": "offline"
+        "1780368879": "offline",
+        "1780457333": "online"
       },
       "electrum3.blackcoin.nl:30004": {
         "1755770395": "online",
-        "1780368879": "offline"
+        "1780368879": "offline",
+        "1780457333": "online"
       }
     }
   },
@@ -1710,19 +1713,22 @@
         "1755770395": "offline",
         "1756345150": "online",
         "1769476724": "offline",
-        "1770168231": "online"
+        "1770168231": "online",
+        "1780457333": "offline"
       },
       "electrumserver01.globalboost.info:50013": {
         "1755770395": "offline",
         "1756345150": "online",
         "1769476724": "offline",
-        "1770168231": "online"
+        "1770168231": "online",
+        "1780457333": "offline"
       },
       "electrumserver01.globalboost.info:50014": {
         "1755770395": "offline",
         "1756345150": "online",
         "1769476724": "offline",
-        "1770168231": "online"
+        "1770168231": "online",
+        "1780457333": "offline"
       },
       "electrumserver02.globalboost.info:50011": {
         "1755770395": "online",
@@ -4741,7 +4747,21 @@
     },
     "by_server": {
       "_metadata": {
+        "electrum-flc.hashboard.space:50001": {
+          "contact": [
+            {
+              "email": "listing@hashboard.space"
+            }
+          ]
+        },
         "electrum-flc.hashboard.space:50002": {
+          "contact": [
+            {
+              "email": "listing@hashboard.space"
+            }
+          ]
+        },
+        "electrum-flc.hashboard.space:50004": {
           "contact": [
             {
               "email": "listing@hashboard.space"
@@ -4750,15 +4770,18 @@
         }
       },
       "electrum-flc.hashboard.space:50001": {
-        "1766366022": "online"
+        "1766366022": "online",
+        "1780457333": "offline"
       },
       "electrum-flc.hashboard.space:50002": {
         "1766366022": "online",
         "1769476724": "offline",
-        "1774959961": "online"
+        "1774959961": "online",
+        "1780457333": "offline"
       },
       "electrum-flc.hashboard.space:50004": {
-        "1766366022": "online"
+        "1766366022": "online",
+        "1780457333": "offline"
       },
       "electrum.myfloki.com:50001": {
         "1766366022": "online"
@@ -4777,7 +4800,21 @@
     },
     "by_server": {
       "_metadata": {
+        "electrum-flc.hashboard.space:50001": {
+          "contact": [
+            {
+              "email": "listing@hashboard.space"
+            }
+          ]
+        },
         "electrum-flc.hashboard.space:50002": {
+          "contact": [
+            {
+              "email": "listing@hashboard.space"
+            }
+          ]
+        },
+        "electrum-flc.hashboard.space:50004": {
           "contact": [
             {
               "email": "listing@hashboard.space"
@@ -4786,15 +4823,18 @@
         }
       },
       "electrum-flc.hashboard.space:50001": {
-        "1769143421": "online"
+        "1769143421": "online",
+        "1780457333": "offline"
       },
       "electrum-flc.hashboard.space:50002": {
         "1769143421": "online",
         "1769476724": "offline",
-        "1774959961": "online"
+        "1774959961": "online",
+        "1780457333": "offline"
       },
       "electrum-flc.hashboard.space:50004": {
-        "1769143421": "online"
+        "1769143421": "online",
+        "1780457333": "offline"
       },
       "electrum.myfloki.com:50001": {
         "1769143421": "online"
@@ -11041,12 +11081,14 @@
       "uno-main.coinmunity.gold:50002": {
         "1755770395": "online",
         "1763079262": "offline",
-        "1763165598": "online"
+        "1763165598": "online",
+        "1780457333": "offline"
       },
       "uno-main.coinmunity.gold:50003": {
         "1755770395": "online",
         "1763079262": "offline",
-        "1763165598": "online"
+        "1763165598": "online",
+        "1780457333": "offline"
       }
     }
   },
@@ -11539,7 +11581,8 @@
       "wss://rpc.gnosischain.com/wss": {
         "1779428138": "online",
         "1780120460": "offline",
-        "1780195702": "online"
+        "1780195702": "online",
+        "1780457333": "offline"
       }
     }
   },
